@@ -95,3 +95,14 @@ Cost Optimization: Analysis of shipping modes and discount strategies helps in r
 Inventory Management: Understanding seasonal trends aids in better inventory planning, reducing stockouts and overstock situations.
 
 Customer Retention: By understanding customer preferences and purchasing behavior, businesses can implement strategies to improve customer satisfaction and retention.
+
+Contact
+For any questions or further information, please contact:
+
+Your Name
+
+Email: connectinglobe7@gmail.com
+
+LinkedIn: Your LinkedIn Profile
+
+This README is designed to showcase your analytical skills and the business problems you've solved through data analysis. It highlights your ability to derive actionable insights from complex datasets, making you a strong candidate for roles that require data-driven decision-making.
