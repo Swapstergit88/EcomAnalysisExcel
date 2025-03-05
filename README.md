@@ -103,6 +103,6 @@ Your Name
 
 Email: connectinglobe7@gmail.com
 
-LinkedIn: Your LinkedIn Profile
 
-This README is designed to showcase your analytical skills and the business problems you've solved through data analysis. It highlights your ability to derive actionable insights from complex datasets, making you a strong candidate for roles that require data-driven decision-making.
+
+This README is designed to showcase your analytical skills and the business problems solved through data analysis. It highlights ability to derive actionable insights from complex datasets, making you a strong candidate for roles that require data-driven decision-making.
