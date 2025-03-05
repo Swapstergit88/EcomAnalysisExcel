@@ -1,8 +1,8 @@
-Ecommerce Sales Analysis
-Overview
+## Ecommerce Sales Analysis
+# Overview
 This repository contains a comprehensive analysis of an e-commerce sales dataset. The dataset includes detailed information about sales transactions, including order details, customer information, product categories, sales figures, discounts, and profits. The analysis aims to uncover key insights that can help businesses optimize their operations, improve customer satisfaction, and increase profitability.
 
-Dataset Description
+# Dataset Description
 The dataset includes the following columns:
 
 Row ID: Unique identifier for each row.
@@ -49,7 +49,7 @@ Discount: Discount applied to the order.
 
 Profit: Profit generated from the order.
 
-Analysis Highlights
+# Analysis Highlights
 1. Sales Performance by Category
 Objective: Identify which product categories generate the highest sales and profits.
 
@@ -99,7 +99,7 @@ Customer Retention: By understanding customer preferences and purchasing behavio
 Contact
 For any questions or further information, please contact:
 
-Your Name
+Name: Swapnil Kakade
 
 Email: connectinglobe7@gmail.com
 
